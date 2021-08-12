@@ -6,3 +6,9 @@
 ![Django](https://img.shields.io/badge/-Django-395781?style=for-the-badge&logo=Django&logoColor=2ba977)
 ![SQL](https://img.shields.io/badge/-SQL-395781?style=for-the-badge&logo=PostgreSQL&logoColor=*)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-395781?style=for-the-badge&logo=linkedin&logoColor=*)](https://www.linkedin.com/in/ildar-absalyamov-49602420a/)
+[![Telegram](https://img.shields.io/badge/-Telegram-395781?style=for-the-badge&logo=telegram&logoColor=*)](https://t.me/glirynice)
+[![VK](https://img.shields.io/badge/-Vkontakte-395781?style=for-the-badge&logo=vk&logoColor=*)](https://vk.com/gliry)
+
+
+
