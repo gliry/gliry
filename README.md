@@ -29,16 +29,14 @@
     <img src="https://img.shields.io/badge/-Vkontakte-395781?style=for-the-badge&logo=vk">
         
 </p>
-          <b></b><br>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=gliry&show_icons=true&theme=prussian">
 </p>
-        
+
+
+    
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gliry&repo=Sweets&theme=prussian)](https://github.com/gliry/Sweets) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gliry&repo=Catch-the-ball&theme=prussian)](https://github.com/gliry/Catch-the-ball) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gliry&repo=Yandex_school_cpp&theme=prussian)](https://github.com/gliry/Yandex_school_cpp) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gliry&repo=Qt_projects&theme=prussian)](https://github.com/gliry/Qt_projects) 
 
 
 
