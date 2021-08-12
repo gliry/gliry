@@ -2,3 +2,6 @@
 
 
 ![Logo_Absalyamov_Ildar_git](https://user-images.githubusercontent.com/49316522/129272014-0038cbf2-5b3a-4797-9818-ec342b580ae9.png)
+
+![Logo_Absalyamov_Ildar_git](https://user-images.githubusercontent.com/49316522/129272522-d9f49b28-b13d-4e1e-88ab-8f491cfe84f6.png)
+
