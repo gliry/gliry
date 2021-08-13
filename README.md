@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+    <img src="https://user-images.githubusercontent.com/49316522/129353735-c3d53822-73f0-4411-8d5f-5dfdef51bbb6.gif" width="200" height="200">
+</p>
+
+<p align="center">
   <b>Languages and Tools</b><br>
 </p>
 
