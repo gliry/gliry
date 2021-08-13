@@ -36,9 +36,27 @@
     <img src="https://github-readme-stats.vercel.app/api?username=gliry&show_icons=true&theme=prussian">
 </p>
 
+<p align="center">
+    <a href="https://github.com/gliry/Sweets">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gliry&repo=Sweets&theme=prussian">
+    </a>
+    <a href="https://github.com/gliry/Catch-the-ball">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gliry&repo=Catch-the-ball&theme=prussian">
+    </a>
+    <a href="https://github.com/gliry/Qt_projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gliry&repo=Qt_projects&theme=prussian">
+    </a>
+        <a href="https://github.com/gliry/Yandex_school_cpp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gliry&repo=Yandex_school_cpp&theme=prussian">
+    </a>
+        
+</p>
 
-    
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gliry&repo=Sweets&theme=prussian)](https://github.com/gliry/Sweets) 
+
+
+
+
+
 
 
 
