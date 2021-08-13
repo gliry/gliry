@@ -33,6 +33,10 @@
 </p>
 
 <p align="center">
+  <b>Projects</b><br>
+</p>
+
+<p align="center">
     <a href="https://github.com/gliry/Sweets">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gliry&repo=Sweets&theme=tokyonight">
     </a>
