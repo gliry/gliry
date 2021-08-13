@@ -37,6 +37,9 @@
 </p>
 
 <p align="center">
+    <a href="https://github.com/gliry/Sweets">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gliry&repo=Sweets&theme=prussian">
+    </a>
     <a href="https://github.com/gliry/Yandex_school_cpp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gliry&repo=Yandex_school_cpp&theme=prussian">
     </a>
