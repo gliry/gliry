@@ -45,7 +45,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gliry&repo=Sweets&theme=tokyonight">
     </a>
     <a href="https://github.com/gliry/Yandex_school_cpp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gliry&repo=Yandex_school_cp&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gliry&repo=Yandex_school_cpp&theme=tokyonight">
     </a>
     <a href="https://github.com/gliry/Catch-the-ball">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gliry&repo=Catch-the-ball&theme=tokyonight">
