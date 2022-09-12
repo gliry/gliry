@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-C++-395781?style=for-the-badge&logo=c%2B%2B&logoColor=659ad2">
     <img src="https://img.shields.io/badge/-Qt-395781?style=for-the-badge&logo=Qt">
     <img src="https://img.shields.io/badge/-Python-395781?style=for-the-badge&logo=Python&logoColor=ffd849">
-    <img src="https://img.shields.io/badge/-Django-395781?style=for-the-badge&logo=Django&logoColor=2ba977">
+    <img src="https://img.shields.io/badge/Solidity-395781.svg?style=for-the-badge&logo=solidity&logoColor=white">
     <img src="https://img.shields.io/badge/-SQL-395781?style=for-the-badge&logo=PostgreSQL&logoColor=*">
 </p>
 
