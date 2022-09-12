@@ -48,7 +48,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gliry&repo=Yandex_school_cpp&theme=tokyonight">
     </a>
     <a href="https://github.com/gliry/Catch-the-ball">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gliry&repo=Catch-the-ball&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gliry&repo=Disney-tokens&theme=tokyonight">
     </a>
     <a href="https://github.com/gliry/Qt_projects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gliry&repo=Digital-diplomas&theme=tokyonight">
