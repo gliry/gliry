@@ -51,7 +51,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gliry&repo=Catch-the-ball&theme=tokyonight">
     </a>
     <a href="https://github.com/gliry/Qt_projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gliry&repo=Qt_projects&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gliry&repo=Digital-diplomas&theme=tokyonight">
     </a>
 </p>
 
