@@ -30,9 +30,6 @@
     <a href="https://t.me/glirynice">
     <img src="https://img.shields.io/badge/-Telegram-395781?style=for-the-badge&logo=telegram">
     </a>
-    <a href="https://vk.com/gliry">
-    <img src="https://img.shields.io/badge/-Vkontakte-395781?style=for-the-badge&logo=vk">
-    </a>
         
 </p>
 
