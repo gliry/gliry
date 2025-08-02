@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/ildar-absalyamov-49602420a/">
+    <a href="https://www.linkedin.com/in/ildar-absalyamov/">
     <img src="https://img.shields.io/badge/-LinkedIn-395781?style=for-the-badge&logo=linkedin">
     </a>
     <a href="https://t.me/glirynice">
